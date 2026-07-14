@@ -195,22 +195,28 @@ This dashboard enables organizations to:
 
 ## Executive Overview
 
+<img width="1170" height="656" alt="Executive Overview" src="https://github.com/user-attachments/assets/9ae72769-8d0f-43e4-9799-b24b504787e1" />
 
 
 ---
 
 ## Customer Segmentation
 
+<img width="1170" height="659" alt="Customer Segmentation" src="https://github.com/user-attachments/assets/5261a001-72f6-4729-a47d-5ec70b8f745e" />
+
 
 ---
 
 ## Geography & Retention Strategy
+
+<img width="1170" height="632" alt="Geography   Retention Strategy" src="https://github.com/user-attachments/assets/eaf14c3a-e306-4790-92b6-0fbeaf0aba9e" />
 
 
 ---
 
 ## Service & Contract Analysis
 
+<img width="1170" height="652" alt="Service   Contract Analysis" src="https://github.com/user-attachments/assets/56e53a1c-229d-4ce4-81bd-deac9edddc66" />
 
 
 ---
